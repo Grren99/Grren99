@@ -3,7 +3,7 @@
   <br>
 </div>
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grren99&include_all_commits=true&show_icons=true&theme=transparent)](https://github.com/bi-sz/github-readme-stats)
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grren99&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/bi-sz/github-readme-stats)
 
 <br>
 
