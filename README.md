@@ -1,54 +1,83 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20I'm%20Dave%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:76C878,100:2E7D32&height=220&section=header&text=Hey%20there!%20I'm%20Dave%20🐸&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20coding%20universe&descAlignY=55&descSize=18)
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Backend+Developer;DevOps+Engineer;Always+Learning!)](https://git.io/typing-svg)
-
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=76C878&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer+%F0%9F%92%BB;DevOps+Engineer+%F0%9F%9A%80;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Always+shipping+new+features+%F0%9F%9B%B8)
+  
 </div>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Grren99&color=667eea&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Grren99?style=flat-square&color=667eea)](https://github.com/Grren99?tab=followers)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrren99&count_bg=%2376C878&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![GitHub followers](https://img.shields.io/github/followers/Grren99?style=social)](https://github.com/Grren99?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/Grren99?style=social)](https://github.com/Grren99?tab=repositories)
 
 </div>
 
----
+<br>
 
-## 🙋‍♂️ About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```javascript
-const Dave = {
-    role: "Backend Developer & DevOps Engineer",
-    location: "South Korea 🇰🇷",
-    currentFocus: ["API Development", "CI/CD Pipeline", "Cloud Infrastructure"],
-    funFact: "Pursuing and following trends 🚀"
-};
+## 🐸 About Me
+
+```yaml
+name: Dave
+located_in: South Korea 🇰🇷
+current_job: Backend Developer & DevOps Engineer
+education: Computer Science
+
+fields_of_interests:
+  - Web Development
+  - Cloud Infrastructure
+  - CI/CD Pipelines
+  - API Design
+
+currently_learning:
+  - Kubernetes
+  - Microservices Architecture
+  
+hobbies:
+  - Coding
+  - Gaming
+  - Learning new tech
+  
+fun_fact: "I mass produce bugs while fixing one 🐛"
 ```
 
-- 🔭 현재 **API 서버 개발** 및 **DevOps 파이프라인 구축**에 집중하고 있습니다
-- 🌱 **Node.js**, **Docker**, **Kubernetes** 등 새로운 기술을 학습 중입니다
-- 💬 **Java**, **Spring Boot**, **Node.js**, **CI/CD**에 대해 물어보세요!
-- 📝 기술 블로그: [Tistory](https://dog-happy-coding.tistory.com)
+<br>
+
+## 🎯 What I'm Up To
+
+- 🔭 Working on **high-traffic API servers**
+- 🌱 Learning **Kubernetes** & **Cloud Native**
+- 👯 Open to collaborate on **interesting projects**
+- 💬 Ask me about **Java, Spring, Node.js, DevOps**
+- ⚡ Fun fact: I mass produce bugs while fixing one 🐛
+
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 💻 Backend
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### 💚 Backend & Languages
+  
+![Java](https://img.shields.io/badge/Java-76C878?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-76C878?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-76C878?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ Database
+### 🗄️ Database & Storage
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 
@@ -56,41 +85,40 @@ const Dave = {
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Grren99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grren99&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grren99&layout=compact&theme=tokyonight&hide_border=true)
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Grren99&show_icons=true&count_private=true&hide_border=true&title_color=76C878&icon_color=76C878&text_color=c9d1d9&bg_color=0d1117" alt="Dave's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grren99&layout=compact&hide_border=true&title_color=76C878&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
----
-
-## 🔥 GitHub Streak
-
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Grren99&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grren99&bg_color=0d1117&color=76C878&line=76C878&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -100,18 +128,60 @@ const Dave = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Grren99&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Grren99&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
 ---
 
-## 📫 Connect with Me
+## 🔥 Streak Stats
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jungisong369@gmail.com)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://dog-happy-coding.tistory.com)
-[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](https://open.kakao.com/o/sopaIEXd)
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Grren99&theme=dark&hide_border=true&background=0D1117&stroke=76C878&ring=76C878&fire=76C878&currStreakNum=FFFFFF&sideNums=76C878&currStreakLabel=76C878&sideLabels=76C878&dates=888888)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jungisong369@gmail.com)
+  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://dog-happy-coding.tistory.com)
+  [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](https://open.kakao.com/o/sopaIEXd)
+
+</div>
+
+<div align="center">
+  
+  ### 💚 Thanks for visiting! Have a nice day! 💚
+  
+  ![](https://komarev.com/ghpvc/?username=Grren99&color=76C878&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:76C878,100:2E7D32&height=120&section=footer)
