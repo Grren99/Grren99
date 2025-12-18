@@ -82,7 +82,15 @@ const Dave = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grren99&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grren99&theme=tokyonight&hide_border=true)
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Grren99&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -92,7 +100,7 @@ const Dave = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Grren99&theme=tokyonight&no-frame=true&row=1&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Grren99&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
