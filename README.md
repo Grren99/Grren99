@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:76C878,100:2E7D32&height=220&section=header&text=Hey%20there!%20I'm%20Dave%20🐸&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20coding%20universe&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:76C878,100:2E7D32&height=220&section=header&text=Hey%20there!%20I'm%20JUNGI%20🐸&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20coding%20universe&descAlignY=55&descSize=18)
 
 <div align="center">
   
@@ -8,7 +8,6 @@
 
 <div align="center">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrren99&count_bg=%2376C878&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
   [![GitHub followers](https://img.shields.io/github/followers/Grren99?style=social)](https://github.com/Grren99?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/Grren99?style=social)](https://github.com/Grren99?tab=repositories)
 
@@ -24,7 +23,6 @@
 name: Dave
 located_in: South Korea 🇰🇷
 current_job: Backend Developer & DevOps Engineer
-education: Computer Science
 
 fields_of_interests:
   - Web Development
@@ -124,36 +122,6 @@ fun_fact: "I mass produce bugs while fixing one 🐛"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Grren99&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Grren99&theme=dark&hide_border=true&background=0D1117&stroke=76C878&ring=76C878&fire=76C878&currStreakNum=FFFFFF&sideNums=76C878&currStreakLabel=76C878&sideLabels=76C878&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 💬 Random Dev Quote
 
 <div align="center">
@@ -177,8 +145,6 @@ fun_fact: "I mass produce bugs while fixing one 🐛"
 <div align="center">
   
   ### 💚 Thanks for visiting! Have a nice day! 💚
-  
-  ![](https://komarev.com/ghpvc/?username=Grren99&color=76C878&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
