@@ -1,48 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:76C878,100:2E7D32&height=220&section=header&text=Hey%20there!%20I'm%20JUNGI%20🐸&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20coding%20universe&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:76C878,100:2E7D32&height=220&section=header&text=Hey%20there!%20I'm%20FROG%20🐸&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20coding%20universe&descAlignY=55&descSize=18)
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=76C878&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer+%F0%9F%92%BB;DevOps+Engineer+%F0%9F%9A%80;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Always+shipping+new+features+%F0%9F%9B%B8)
-  
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=76C878&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer+%F0%9F%92%BB;DevOps+Engineer+%F0%9F%9A%80;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Always+shipping+new+features+%F0%9F%9B%B8)
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Grren99?style=social)](https://github.com/Grren99?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/Grren99?style=social)](https://github.com/Grren99?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/Grren99?style=social)](https://github.com/Grren99?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Grren99?style=social)](https://github.com/Grren99?tab=repositories)
 
 </div>
 
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+---
 
 ## 🐸 About Me
 
-```yaml
-name: Dave
-located_in: South Korea 🇰🇷
-current_job: Backend Developer & DevOps Engineer
-
-fields_of_interests:
-  - Web Development
-  - Cloud Infrastructure
-  - CI/CD Pipelines
-  - API Design
-
-currently_learning:
-  - Kubernetes
-  - Microservices Architecture
-  
-hobbies:
-  - Coding
-  - Gaming
-  - Learning new tech
-  
-fun_fact: "I mass produce bugs while fixing one 🐛"
+```javascript
+const Dave = {
+    name: "Dave",
+    location: "South Korea 🇰🇷",
+    role: "Backend Developer & DevOps Engineer",
+    
+    skills: ["Java", "Spring", "Node.js", "Docker", "Jenkins"],
+    learning: ["Kubernetes", "Microservices"],
+    hobbies: ["Coding", "Gaming", "Learning new tech"],
+    
+    funFact: "I mass produce bugs while fixing one 🐛"
+};
 ```
-
-<br>
 
 ## 🎯 What I'm Up To
 
@@ -51,8 +34,6 @@ fun_fact: "I mass produce bugs while fixing one 🐛"
 - 👯 Open to collaborate on **interesting projects**
 - 💬 Ask me about **Java, Spring, Node.js, DevOps**
 - ⚡ Fun fact: I mass produce bugs while fixing one 🐛
-
-<br>
 
 ---
 
@@ -93,7 +74,7 @@ fun_fact: "I mass produce bugs while fixing one 🐛"
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Tools & Others
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -109,24 +90,14 @@ fun_fact: "I mass produce bugs while fixing one 🐛"
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Grren99&show_icons=true&count_private=true&hide_border=true&title_color=76C878&icon_color=76C878&text_color=c9d1d9&bg_color=0d1117" alt="Dave's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grren99&layout=compact&hide_border=true&title_color=76C878&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Grren99&show_icons=true&count_private=true&hide_border=true&title_color=76C878&icon_color=76C878&text_color=c9d1d9&bg_color=0d1117" alt="Dave's github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grren99&layout=compact&hide_border=true&title_color=76C878&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grren99&bg_color=0d1117&color=76C878&line=76C878&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grren99&bg_color=0d1117&color=76C878&line=76C878&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -136,15 +107,15 @@ fun_fact: "I mass produce bugs while fixing one 🐛"
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jungisong369@gmail.com)
-  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://dog-happy-coding.tistory.com)
-  [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](https://open.kakao.com/o/sopaIEXd)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jungisong369@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://dog-happy-coding.tistory.com)
+[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](https://open.kakao.com/o/sopaIEXd)
 
 </div>
 
 <div align="center">
   
-  ### 💚 Thanks for visiting! Have a nice day! 💚
+### 💚 Thanks for visiting! Have a nice day! 💚
 
 </div>
 
